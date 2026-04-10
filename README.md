@@ -36,3 +36,14 @@ pip install cryptography>=42.0.0
 ```bash
 python server.py
 ```
+
+## Client One run in other terminal
+```bash
+python client.py bob
+```
+
+## Client Two run in other terminal
+```bash
+python client.py alex
+```
+
