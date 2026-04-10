@@ -31,7 +31,7 @@ Install dependencies:
 pip install cryptography>=42.0.0
 ```
 
-## 🚀 Usage
+## 🚀 Usage.. First run Server file
 
 ```bash
 python server.py
